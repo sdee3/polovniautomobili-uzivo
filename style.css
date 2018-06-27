@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+li > a {
+  color: #000;
+}
+
+li > a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+hr {
+  width: 100%;
+}
+
+#ads {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+#map {
+  left: 20rem;
+  top: 15rem;
+  height: 65vh;
+  width: 30vw;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin: auto;
+ }
+
+.card {
+  max-height: 50vh;
+  margin: 10px 0px;
+}
+
+.card-img-top {
+  margin: auto;
+  max-height: 15vh;
+  max-width: 15vw;
+}
+
+.card-body > .card-text {
+  margin: auto;
+}

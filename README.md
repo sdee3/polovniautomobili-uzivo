@@ -5,7 +5,7 @@ Prikaz najnovijih oglasa sajta PolovniAutomobili.
 
 ## How to get started
 
-Simply create an additional file/module to the root folder called config.js. It contains two properties telling the Vue component how many ads to display and how often to re-fetch data.
+Edit the config.js file. It contains two properties telling the Vue component how many ads to display and how often to re-fetch data.
 
 Example:
 
@@ -17,3 +17,5 @@ export default {
 ~~~~
 
 Enjoy the original website's missing feature! :)
+
+[https://polovniautomobili-uzivo.herokuapp.com/](https://polovniautomobili-uzivo.herokuapp.com/)

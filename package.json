@@ -1,0 +1,19 @@
+{
+  "name": "polovniautomobili-uzivo",
+  "version": "1.0.0",
+  "description": "Prikaz najnovijih oglasa sajta PolovniAutomobili",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdee3/polovniautomobili-uzivo.git"
+  },
+  "author": "Stefan Djokic, sdee3.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdee3/polovniautomobili-uzivo/issues"
+  },
+  "homepage": "https://github.com/sdee3/polovniautomobili-uzivo#readme"
+}
